@@ -1,4 +1,4 @@
-# Renamer-parser
+# renamer-parser
 Script created for dead by daylight to rename WEM files with XML files
 
 # (c) by Neinndall
