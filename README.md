@@ -1,4 +1,4 @@
-# dbd-renamer
+# audio-renamer
 Script created for dead by daylight to rename WEM files with XML or JSON files
 
 # license 
